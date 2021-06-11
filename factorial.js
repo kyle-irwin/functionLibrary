@@ -5,4 +5,5 @@ function factorial(num) {
     while (x > 1) {
     num *= x;
     x--;
+    }
 }
